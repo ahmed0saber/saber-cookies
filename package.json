@@ -1,0 +1,26 @@
+{
+  "name": "saber-cookies",
+  "version": "1.0.0",
+  "description": "saber cookies is an open-source JavaScript library that can help you handle cookies easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed0saber/saber-cookies.git"
+  },
+  "keywords": [
+    "saber-cookies",
+    "cookies",
+    "JavaScript",
+    "js",
+    "ahmed0saber"
+  ],
+  "author": "Ahmed Saber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed0saber/saber-cookies/issues"
+  },
+  "homepage": "https://github.com/ahmed0saber/saber-cookies#readme"
+}
