@@ -28,7 +28,7 @@ const SaberCookies = {
         const cookies = document.cookie.split(';')
         for (let i = 0; i < cookies.length; i++) {
             const name = cookies[i].split('=')[0].trim()
-            SaberCookies.removeCookie(name)
+            SaberCookies.remove(name)
         }
     }
 }
